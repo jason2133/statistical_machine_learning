@@ -1,10 +1,10 @@
-# statistical_machine_learning
+# Statistical Machine Learning
 - Korea Univ. / Statistical Machine Learning / STAT424 / 2021 Fall
 - Tabular Data Analysis using Python (Scikit-Learn (Mainly), Numpy, Pandas, Matplotlib, Plotly, etc...)
 - [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=18032077)
 - Lecture by Prof. Yousung Park, Department of Statistics, Korea University
 
-|Chapter|단원명|
+|Chapter|Contents|
 |:------:|:-----:|
 |1|Machine Learning|
 |2|Data Preprocessing </br> Optimization|
@@ -17,6 +17,9 @@
 |9|Dimensionality Reduction|
 |10|Cross-Validation|
 |11|Regression|
-|12|Ensemble Learning|
 |13|Clustering|
-
+|15|**Ensemble Learning** </br> XGBoost, LightGBM, and CatBoost|
+|16|**Ensemble Learning** </br> Bagging, Boosting|
+|17|**Ensemble Learning** </br> Hyperparameter Tuning of XGBoost, LightGBM, and CatBoost|
+|18|Meta Model </br> Model Automation|
+|**Final Project**|**Predict the transfer fees of soccer players </br> using Ensemble Learning based on FIFA Data </br> (Used XGBoost, LightGBM, and CatBoost)**|
