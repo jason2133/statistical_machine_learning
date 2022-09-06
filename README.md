@@ -1,7 +1,7 @@
 # Statistical Machine Learning
 - Korea Univ. / Statistical Machine Learning / STAT424 / 2021 Fall
 - Tabular Data Analysis using Python (Scikit-Learn (Mainly), Numpy, Pandas, Matplotlib, Plotly, etc...)
-- [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=18032077)
+- [Book](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791158083038)
 - Lecture by Prof. Yousung Park, Department of Statistics, Korea University
 
 |Chapter|Contents|
